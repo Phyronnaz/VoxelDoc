@@ -2,6 +2,7 @@ Voxel World Generator
 =====================
 
 A *Voxel World Generator* is used to generate a world. Given a position, it returns the density and the material at this position.
+A position is in voxel space, and is always made of ints.
 There are 2 ways to create a world generator: through C++, and through a *Voxel Graph*.
 
 
