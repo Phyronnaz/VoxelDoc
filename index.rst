@@ -5,7 +5,7 @@ Voxel Plugin
    :maxdepth: 2
 
    installation
-   voxelgraphs
+   quickstart
    importers
    tips
    voxeltools

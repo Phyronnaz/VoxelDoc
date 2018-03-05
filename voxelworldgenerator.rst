@@ -5,6 +5,11 @@ A *Voxel World Generator* is used to generate a world. Given a position, it retu
 A position is in voxel space, and is always made of ints.
 There are 2 ways to create a world generator: through C++, and through a *Voxel Graph*.
 
+Voxel Graph
+-----------
+
+See :doc:`voxelgraph`.
+
 
 C++
 ---
