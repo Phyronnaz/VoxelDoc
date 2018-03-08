@@ -76,6 +76,7 @@ Adding colors
 ~~~~~~~~~~~~~
 
 A *Voxel Material* is defined by 3 values:
+
 * 2 materials index (A and B)
 * an alpha
 
