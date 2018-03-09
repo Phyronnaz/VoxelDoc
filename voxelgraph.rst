@@ -165,4 +165,4 @@ You can also use **Swap World Generator**, which allows to keep a safe zone:
 
 .. raw:: html
 
-    <div class="video-container"><iframe src="http://www.youtube.com/embed/MW35r_QVYns?rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/MW35r_QVYns?rel=0" frameborder="0" allowfullscreen></iframe></div>
