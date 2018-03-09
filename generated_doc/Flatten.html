@@ -1,0 +1,132 @@
+<html xmlns="http://www.w3.org/TR/REC-html40">
+  <body>
+    <p>Flatten the surface of the world</p>
+    <img src="_static/img/nd_img_Flatten.png" />
+    <h3 class="title_style">Inputs</h3>
+    <table>
+      <colgroup>
+        <col width="25%" />
+        <col width="75%" />
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>
+            <div class="param_name title_style">In</div>
+            <div class="param_type">Exec</div>
+          </td>
+          <td>
+            <p />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">World</div>
+            <div class="param_type">Voxel World Object Reference</div>
+          </td>
+          <td>
+            <p>Voxel World</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Position</div>
+            <div class="param_type">Vector</div>
+          </td>
+          <td>
+            <p>Position in world space</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Normal</div>
+            <div class="param_type">Vector</div>
+          </td>
+          <td>
+            <p>Normal at Position</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Radius</div>
+            <div class="param_type">Float</div>
+          </td>
+          <td>
+            <p>Radius in world space</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Strength</div>
+            <div class="param_type">Float</div>
+          </td>
+          <td>
+            <p>Speed of the edit</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Dont Modify Voxels Around Position</div>
+            <div class="param_type">Boolean</div>
+          </td>
+          <td>
+            <p>Don't edit the voxels around Position. Use if the tool is moving when editing</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Dont Modify Empty Voxels</div>
+            <div class="param_type">Boolean</div>
+          </td>
+          <td>
+            <p>Can't add on voxels totally empty</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Dont Modify Full Voxels</div>
+            <div class="param_type">Boolean</div>
+          </td>
+          <td>
+            <p>Can't remove on voxels totally full</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Show Modified Voxels</div>
+            <div class="param_type">Boolean</div>
+          </td>
+          <td>
+            <p>Draw debug points on modified voxels</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Show Tested Voxels</div>
+            <div class="param_type">Boolean</div>
+          </td>
+          <td>
+            <p>Draw debug points on voxels tested for validity</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 class="title_style">Outputs</h3>
+    <table>
+      <colgroup>
+        <col width="25%" />
+        <col width="75%" />
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>
+            <div class="param_name title_style">Out</div>
+            <div class="param_type">Exec</div>
+          </td>
+          <td>
+            <p />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

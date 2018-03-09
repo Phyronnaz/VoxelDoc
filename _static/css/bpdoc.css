@@ -1,0 +1,44 @@
+* {
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+
+p {
+	font-size: 1.0em;
+}
+
+.navbar_style {
+	font-style: italic;
+	font-size: 0.75em;
+}
+
+.title_style {
+	color: #005590;
+}
+
+#content_container {
+	width: 972px;
+	margin: auto;
+}
+
+#content_container table {
+	width: 100%;
+}
+
+table, td {
+    border: 1px solid #DDDDDD;
+    border-collapse: collapse;
+}
+
+td {
+  vertical-align: top;
+  padding: 5px;
+}
+
+.param_name {
+	font-weight: bold;
+}
+
+.param_type {
+	color: gray;
+	font-family: monospace;
+}
