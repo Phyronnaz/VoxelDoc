@@ -7,6 +7,8 @@ Voxel Plugin
    installation
    quickstart
    tips
+   voxelmaterial
+   voxeltype
    voxeltools
    voxelworldgenerator
    voxelgraph
@@ -16,3 +18,5 @@ Voxel Plugin
    voxelgrassandvoxelactors.rst
    texturearrays.rst
    multiplayer.rst
+   voxelphysics
+   loadsave
