@@ -6,10 +6,13 @@ Voxel Plugin
 
    installation
    quickstart
-   importers
    tips
    voxeltools
    voxelworldgenerator
    voxelgraph
+   importers
    voxelasset
    collisions
+   voxelgrassandvoxelactors.rst
+   texturearrays.rst
+   multiplayer.rst
