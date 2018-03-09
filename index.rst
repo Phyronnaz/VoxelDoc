@@ -11,3 +11,5 @@ Voxel Plugin
    voxeltools
    voxelworldgenerator
    voxelgraph
+   voxelasset
+   collisions
