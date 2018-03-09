@@ -15,11 +15,11 @@ Quick start
 .. image:: img/quickstart_voxelinvoker.png
 
 * If you don't already have a Game Mode, `create one`_ and set the default pawn
-    
-.. _create one: https://docs.unrealengine.com/latest/INT/Gameplay/HowTo/SettingUpAGameMode/Blueprints/
 
 * Set the Player Controller to **BP_VoxelPlayerController**
 
 * Play. The voxel world should appear, along with the UI
 
 .. image:: img/quickstart_play.png
+
+.. _create one: https://docs.unrealengine.com/latest/INT/Gameplay/HowTo/SettingUpAGameMode/Blueprints/
