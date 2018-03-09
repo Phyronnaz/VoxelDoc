@@ -1,6 +1,8 @@
 Voxel Plugin
 ============
 
+.. image:: img/VoxelMain.svg
+
 .. toctree::
    :maxdepth: 2
 
