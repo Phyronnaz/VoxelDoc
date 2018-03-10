@@ -23,6 +23,8 @@ project = 'Voxel Plugin'
 copyright = '2018, Phyronnaz'
 author = 'Phyronnaz'
 
+site_url = 'http://voxel-plugin.readthedocs.io/'
+
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
@@ -41,6 +43,7 @@ release = '1.0'
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.imgmath',
+    'sphinx_sitemap'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
