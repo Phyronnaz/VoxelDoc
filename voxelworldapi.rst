@@ -7,7 +7,8 @@ AddAsset
 .. raw:: html
 	:file: generated_doc/AddAsset.html
 
-	
+.. _ConnectClient:	
+
 ConnectClient
 ----------------------------------
 	
@@ -106,6 +107,8 @@ GetVoxelSize
 	:file: generated_doc/GetVoxelSize.html
 
 	
+.. _GlobalToLocal:
+
 GlobalToLocal
 ----------------------------------
 	
@@ -147,6 +150,7 @@ LoadFromSave
 .. raw:: html
 	:file: generated_doc/LoadFromSave.html
 
+.. _LocalToGlobal:
 	
 LocalToGlobal
 ----------------------------------
@@ -204,6 +208,8 @@ SetWorldGenerator
 	:file: generated_doc/SetWorldGenerator.html
 
 	
+.. _StartServer:
+
 StartServer
 ----------------------------------
 	
