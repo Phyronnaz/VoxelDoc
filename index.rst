@@ -25,3 +25,4 @@ Voxel Plugin
    multiplayer.rst
    voxelphysics
    loadsave
+   voxelworldapi
