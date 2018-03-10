@@ -1,6 +1,9 @@
 Voxel Plugin
 ============
 
+.. meta::
+    :google-site-verification: 5-iJCSgHSOvPBIp2tKrHVrE8uXqwF3B1nlGdLFs9TqM
+
 .. image:: img/VoxelMain.svg
 
 .. toctree::
