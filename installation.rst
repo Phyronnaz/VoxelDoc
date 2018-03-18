@@ -12,3 +12,7 @@ Manual installation
     └── Plugins
         └── Voxel
             └── Voxel.uplugin
+
+* If you want to use it in your C++ project: add **"Voxel"** as public dependency in **MyProject.Build.cs**. You should have ::
+    
+    PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Voxel" });
