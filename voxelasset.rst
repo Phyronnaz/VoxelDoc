@@ -4,7 +4,10 @@ Voxel Asset
 .. raw:: html
 
     <div class="video-container"><iframe src="https://www.youtube.com/embed/-vU0z-rXySE?rel=0" frameborder="0" allowfullscreen></iframe></div>
-    <p></p>
+    
+.. raw:: html
+
+	<p></p>
 
 A *Voxel Asset* is a World Generator with bounds. This means you can use a voxel asset as world generator.
 A Voxel Asset is created when you use an importer, but you can also create one yourself.

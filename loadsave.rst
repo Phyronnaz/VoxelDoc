@@ -14,6 +14,9 @@ Load From Save
 
 .. raw:: html
    :file: generated_doc/LoadFromSave.html 
+	
+.. raw:: html
+
 	<p></p>
 
 Get Save
@@ -21,4 +24,7 @@ Get Save
 
 .. raw:: html
    :file: generated_doc/GetSave.html 
+	
+.. raw:: html
+
 	<p></p>

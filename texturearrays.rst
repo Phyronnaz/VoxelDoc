@@ -4,7 +4,10 @@ Texture Arrays
 .. raw:: html
 
     <div class="video-container"><iframe src="https://www.youtube.com/embed/oteNqCsUT88?rel=0" frameborder="0" allowfullscreen></iframe></div>
-    <p></p>
+    
+.. raw:: html
+
+	<p></p>
 
 Getting the Texture Arrays engine build
 ---------------------------------------
