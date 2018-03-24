@@ -14,4 +14,5 @@ Remove Floating Blocks
 ----------------------
 
 .. raw:: html
-   :file: generated_doc/RemoveFloatingBlocks.html
+   :file: generated_doc/RemoveFloatingBlocks.html 
+	<p></p>

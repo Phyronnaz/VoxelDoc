@@ -13,10 +13,12 @@ Load From Save
 --------------
 
 .. raw:: html
-   :file: generated_doc/LoadFromSave.html
+   :file: generated_doc/LoadFromSave.html 
+	<p></p>
 
 Get Save
 --------
 
 .. raw:: html
-   :file: generated_doc/GetSave.html
+   :file: generated_doc/GetSave.html 
+	<p></p>

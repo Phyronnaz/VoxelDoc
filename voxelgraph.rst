@@ -24,6 +24,7 @@ Voxel Graph
 
 A *Voxel Graph* is a world generator that is created through a Blueprint-like graph.
 It can be used in 2 ways:
+
 * Interpreted mode: no compilation, ideal for fast iteration times. Can be a bit slower
 * Compiled mode: compiles the graph to C++, should be done once you're happy with the result. It's native C++, so it's *really* fast
 
