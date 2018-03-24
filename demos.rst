@@ -5,6 +5,10 @@ Download the demo here_, and add to the **Plugins** folder the **4.18 without Te
 
 .. _here: https://drive.google.com/open?id=1KqihUI5aHnL__sfv0N-vYFClA7xXLGY5
 
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/v24HMbGwtDQ?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
 Asteroids
 ---------
 

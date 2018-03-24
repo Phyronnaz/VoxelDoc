@@ -11,6 +11,10 @@ If you're using the free version, you can still use this doc, however not everyt
 
 Feel free to create issues/pull requests on the documentation repo (**Edit On Github** on the top right of the page) if you find spelling errors, outdated docs, poorly written parts, or if you have a question/suggestion. 
 
+`Tutorials playlist`_
+
+.. _Tutorials playlist: https://www.youtube.com/playlist?list=PLjYKpKPK8E-8yk7BseGGSF_3L0IuUo6RO
+
 Links:
 
 * `Official website`_
