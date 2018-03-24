@@ -1,6 +1,11 @@
 Voxel Asset
 ===========
 
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/-vU0z-rXySE?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+
 A *Voxel Asset* is a World Generator with bounds. This means you can use a voxel asset as world generator.
 A Voxel Asset is created when you use an importer, but you can also create one yourself.
 
@@ -26,10 +31,6 @@ Add Asset
 ~~~~~~~~~
 
 This is for big assets (no limit in size). Instead of copying the data, it tells the Voxel World that there's an asset at the given position. Call is cheap, but impact the performance after. Don't use too many times on a same voxel world.
-
-.. raw:: html
-
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/-vU0z-rXySE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Voxel Assets created by importers
 ---------------------------------

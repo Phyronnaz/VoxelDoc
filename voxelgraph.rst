@@ -1,6 +1,23 @@
 Voxel Graph
 ===========
 
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/M3D0rg2IFqM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/HJNErlOr7xk?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/7267NvtKyts?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/QGVgYMfVFAg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+
+
 A *Voxel Graph* is a world generator that is created through a Blueprint-like graph.
 It can be used in 2 ways:
 * Interpreted mode: no compilation, ideal for fast iteration times. Can be a bit slower
@@ -34,10 +51,6 @@ You should have the following graph:
 .. image:: img/voxelgraph_details_mygraph.png
 
 * Hit Play. You should see a flat world.
-
-.. raw:: html
-
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/M3D0rg2IFqM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Adding noise
 ~~~~~~~~~~~~
@@ -112,10 +125,6 @@ Compiling to C++
 * In your voxel world settings, set the world generator type to **Class** and the generator to **MyGraph**
 * Click Play. The same world should generate, but a lot faster.
 
-.. raw:: html
-
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/HJNErlOr7xk?rel=0" frameborder="0" allowfullscreen></iframe></div>
-
 World Generator Sampling
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -132,10 +141,6 @@ You can use a world generator in an other one.
 **Warning:** When compiling to C++, world generator sampler references are lost. You need to set the **Unique Name** property, and create a Blueprint subclass of the generated C++, in which you'll set the reference.
 
 **Warning:** Creating a world generator loop (A samples B, which samples A, which samples B...) will make the editor freeze/crash!
-
-.. raw:: html
-
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/QGVgYMfVFAg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Exposing parameters to Blueprints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,10 +168,6 @@ The constant node should turn yellow
 * Set the world generator in your Voxel World details to **Class/MyGraphWithParametersBP**. You should see the ground far below you:
 
 .. image:: img/voxelgraph_parameters_height_property_result.png
-
-.. raw:: html
-
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/7267NvtKyts?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 You can also spawn a new world generator at runtime:
 
