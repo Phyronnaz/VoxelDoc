@@ -4,6 +4,7 @@ Quick start
 .. raw:: html
 
     <div class="video-container"><iframe src="https://www.youtube.com/embed/EpXu9kqFoSM?rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <p></p>
 
 * From the Modes panel, drag and drop a Voxel World actor in your scene, and set its location to (0, 0, 0)
 
