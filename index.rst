@@ -33,6 +33,7 @@ Links:
    generalconcept
    installation
    quickstart
+   demos
    tips
    voxelmaterial
    voxeltype
