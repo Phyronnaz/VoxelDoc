@@ -29,7 +29,7 @@ This is for big assets (no limit in size). Instead of copying the data, it tells
 
 .. raw:: html
 
-    <div class="video-container"><iframe src="https://www.youtube.com/embed/zBYDTJoYcUg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/-vU0z-rXySE?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 Voxel Assets created by importers
 ---------------------------------

@@ -12,3 +12,7 @@ Manual installation
     └── Plugins
         └── Voxel
             └── Voxel.uplugin
+
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/EpXu9kqFoSM?rel=0" frameborder="0" allowfullscreen></iframe></div>

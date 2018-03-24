@@ -23,3 +23,7 @@ Quick start
 .. image:: img/quickstart_play.png
 
 .. _create one: https://docs.unrealengine.com/latest/INT/Gameplay/HowTo/SettingUpAGameMode/Blueprints/
+
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/EpXu9kqFoSM?rel=0" frameborder="0" allowfullscreen></iframe></div>

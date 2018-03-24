@@ -41,3 +41,7 @@ Using the build
 * The textures should appear in the UI:
 
 .. image:: img/texturearrays_result.png
+
+.. raw:: html
+
+    <div class="video-container"><iframe src="https://www.youtube.com/embed/oteNqCsUT88?rel=0" frameborder="0" allowfullscreen></iframe></div>
