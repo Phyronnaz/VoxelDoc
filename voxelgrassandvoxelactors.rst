@@ -30,7 +30,8 @@ Voxel Actors
 
 .. image:: img/voxelactor_newbp.png
 
-* Open it. Add a **Cylender** component and replace **DefaultSceneRoot** by it
+* Open it. Add a **Cylinder** component and replace **DefaultSceneRoot** by it.
+* Set the **Allow CPU Access** property of the Cylinder mesh to **true** via *Asset Actions/Bulk Edit*
 * In the Event Graph, create the following nodes:
 
 .. image:: img/voxelactor_eventgraph.png
