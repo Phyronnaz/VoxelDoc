@@ -1,6 +1,6 @@
 <html xmlns="http://www.w3.org/TR/REC-html40">
   <body>
-    <p>Remove all blocks in a box not connected to Position, or optionally to the borders of the box</p>
+    <p>Search for floating voxels blocks in a box of radius Radius centered in Position, and spawn ClassToSpawn for each of those blocks</p>
     <img src="_static/img/nd_img_RemoveFloatingBlocks.png" />
     <h3 class="title_style">Inputs</h3>
     <table>
@@ -29,6 +29,15 @@
         </tr>
         <tr>
           <td>
+            <div class="param_name title_style">Class to Spawn</div>
+            <div class="param_type">Voxel Part Class Reference</div>
+          </td>
+          <td>
+            <p>The class of the spawned actors</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
             <div class="param_name title_style">Position</div>
             <div class="param_type">Vector</div>
           </td>
@@ -45,15 +54,6 @@
             <p>Radius of the box in voxel space (-Radius &lt; X &lt; Radius ...)</p>
           </td>
         </tr>
-        <tr>
-          <td>
-            <div class="param_name title_style">Borders Are Connected</div>
-            <div class="param_type">Boolean</div>
-          </td>
-          <td>
-            <p>Remove parts not connected to Position, or not connected to borders? // TODO: Async?</p>
-          </td>
-        </tr>
       </tbody>
     </table>
     <h3 class="title_style">Outputs</h3>
@@ -67,6 +67,15 @@
           <td>
             <div class="param_name title_style">Out</div>
             <div class="param_type">Exec</div>
+          </td>
+          <td>
+            <p />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div class="param_name title_style">Spawned Actors</div>
+            <div class="param_type">Array of Voxel Part Object References</div>
           </td>
           <td>
             <p />
