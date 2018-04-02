@@ -51,3 +51,4 @@ Links:
    voxelphysics
    loadsave
    voxelworldapi
+   acknowledgements
