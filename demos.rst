@@ -33,7 +33,7 @@ Make sure that **Auto Connect To Server** isn't ticked in the editor preferences
 
 To launch the demo, launch the **MultiplayerMap_Launcher** map.
 
-**Warning** Editing the map will be really laggy, as the generator is quite heavy and not translated to C++. To solve that, you can follow ::ref:`CompilingToCpp` to convert the 2 generators to C++.
+**Warning** Editing the map will be really laggy, as the generator is quite heavy and not translated to C++. To solve that, you can follow :ref:`CompilingToCpp` to convert the 2 generators to C++.
 
 .. raw:: html
 
