@@ -124,6 +124,8 @@ This will make the top of the mountains yellow:
 
 .. image:: img/voxelgraph_setmaterial_result.png
 
+:.. _CompilingToCpp:
+
 Compiling to C++
 ~~~~~~~~~~~~~~~~
 
