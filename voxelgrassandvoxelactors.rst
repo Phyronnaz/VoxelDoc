@@ -23,6 +23,10 @@ Voxel Grass
 
 .. image:: img/voxelgrass_result.png
 
+The material isn't applied to the meshes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If your grass is like the image above, make sure that "Used with Instanced Static Meshes" is checked in the material settings.
+
 Voxel Actors
 ------------
 
