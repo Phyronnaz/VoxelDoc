@@ -66,6 +66,16 @@ Set Material Box
 
 	<p></p>
 
+Flatten
+~~~~~~~
+
+.. raw:: html
+   :file: generated_doc/Flatten.html 
+	
+.. raw:: html
+
+	<p></p>
+
 Voxel Assets
 ------------
 
