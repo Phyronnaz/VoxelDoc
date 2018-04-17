@@ -4,6 +4,9 @@ Installation
 Manual installation
 -------------------
 
+Gumroad & Sellfy
+~~~~~~~~~~~~~~~~
+
 They are 2 versions of the plugin: 4.XX.XX, and 4.XX.XX-TextureArrays. To use the TextureArrays one, you need to use a custom build of the engine: see :doc:`texturearrays` for more info
 
 * In your game’s root directory, create a folder named Plugins
@@ -26,3 +29,10 @@ They are 2 versions of the plugin: 4.XX.XX, and 4.XX.XX-TextureArrays. To use th
 .. raw:: html
 
 	<p></p>
+
+Github
+~~~~~~
+
+Follow the README_.
+
+.. _README: https://github.com/Phyronnaz/VoxelPlugin#building-from-source
