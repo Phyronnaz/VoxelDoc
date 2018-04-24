@@ -1,0 +1,3 @@
+[submodule "VoxelDocExamples"]
+	path = VoxelDocExamples
+	url = git@github.com:Phyronnaz/VoxelDocExamples
