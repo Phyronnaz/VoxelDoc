@@ -52,3 +52,4 @@ Links:
    loadsave
    voxelworldapi
    acknowledgements
+   VoxelDocExamples/examples
