@@ -14,14 +14,6 @@ Getting the Texture Arrays engine build
 
 You have 2 ways to get a Texture Array build:
 
-Building from source
-~~~~~~~~~~~~~~~~~~~~
-
-Apply `this tutorial`_ to the `texture arrays engine fork`_ (make sure you are using the *4.18.2-TextureArrays* branch).
-
-.. _this tutorial: https://docs.unrealengine.com/en-us/Programming/Development/BuildingUnrealEngine
-.. _texture arrays engine fork: https://github.com/Phyronnaz/UnrealEngine/tree/4.18.2-TextureArrays
-
 Downloading a binary build
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -29,10 +21,18 @@ If you don't want to build the engine from source, you can also download a binar
 
 **If you get a 404 error**, you need to link your github account to your Epic Games account (`tutorial`_).
 
-Once downloaded, extract the 7zip and launch **UnrealEngine_4.18_TextureArrays/Windows/Engine/Binaries/Win64/UE4Editor.exe**.
+Once downloaded, extract the 7zip and launch *ExtractedFolder*\ **/Windows/Engine/Binaries/Win64/UE4Editor.exe**.
 
 .. _on the github: https://github.com/Phyronnaz/UnrealEngine/releases
 .. _tutorial: https://www.unrealengine.com/en-US/ue4-on-github
+
+Building from source
+~~~~~~~~~~~~~~~~~~~~
+
+Apply `this tutorial`_ to the `texture arrays engine fork`_ (make sure you are using the *4.XX.X-TextureArrays* branch).
+
+.. _this tutorial: https://docs.unrealengine.com/en-us/Programming/Development/BuildingUnrealEngine
+.. _texture arrays engine fork: https://github.com/Phyronnaz/UnrealEngine/tree/4.18.2-TextureArrays
 
 Using the build
 ---------------
