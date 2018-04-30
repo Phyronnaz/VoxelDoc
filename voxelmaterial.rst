@@ -9,6 +9,15 @@ A *Voxel Material* has 4 properties:
 
 The final material is Lerp(A, B, alpha). The Voxel Actor ID is used for Voxel Actors spawn.
 
+The Voxel Material is passed to the UE Material through Vertex Colors:
+
+* R -> A
+* G -> B
+* B -> Alpha
+* A -> Unused
+
+A custom vertex factory disable interpolation on R and G.
+
 Limit
 ------
 
