@@ -50,6 +50,7 @@ Links:
    multiplayer.rst
    voxelphysics
    loadsave
+   noisenodes
    voxelworldapi
    acknowledgements
    VoxelDocExamples/examples
