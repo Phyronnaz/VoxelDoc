@@ -52,5 +52,6 @@ Links:
    loadsave
    noisenodes
    voxelworldapi
+   miscissues
    acknowledgements
    VoxelDocExamples/examples
