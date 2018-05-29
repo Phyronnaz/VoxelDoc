@@ -1,7 +1,7 @@
 Misc issues
 ===========
 
-Player freezes/disapears when digging too far
+Player freezes/disappears when digging too far
 ---------------------------------------------
 
 Disable **Enable World Bounds Checks** in the `World Settings`_.
