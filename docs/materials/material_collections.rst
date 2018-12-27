@@ -1,12 +1,15 @@
-=====================
-Materials Collections
-=====================
+
+.. _material-collections:
+
+====================
+Material Collections
+====================
 
 ----
 Goal
 ----
 
-The goal of materials collections is to automatically generate materials that blend multiple materials.
+The goal of material collections is to automatically generate materials that blend multiple materials.
 
 It takes in input a list of materials, and outputs three lists:
 
@@ -79,9 +82,10 @@ you can generate the double & triple ones using the **Generate Double** and **Ge
 Suggested workflow
 ^^^^^^^^^^^^^^^^^^
 
-Convert your master materials to material functions as described above.
-Fine tune them without using the material collection,
-and once you're happy with their look, generate the generated materials.
+* Convert your master materials to material functions as described above
+* Fine tune them without using the material collection
+* Once you're happy with their look, generate the generated materials
+
 You should try to minimize the number of generations as much as possible due to their high shader compile time.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
