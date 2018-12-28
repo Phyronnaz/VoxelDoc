@@ -83,7 +83,7 @@ Suggested workflow
 ^^^^^^^^^^^^^^^^^^
 
 * Convert your master materials to material functions as described above
-* Fine tune them without using the material collection
+* Fine tune them without using the material collection, eg by using the RGB material config
 * Once you're happy with their look, generate the generated materials
 
 You should try to minimize the number of generations as much as possible due to their high shader compile time.
@@ -94,3 +94,21 @@ Performance considerations
 
 The number of generated materials is exponential in the number of master materials.
 To reduce the number of shaders to compile, you should use material instances as much as possible.
+
+^^^^^^^^^^^^
+How it works
+^^^^^^^^^^^^
+
+To create a material permutation:
+
+* The corresponding material functions are duplicated and all their parameters renamed to avoid name collisions
+* The corresponding template is duplicated and its function are replaced by the functions created above
+  (their are matched by their comments: **INPUT**, **INPUT0**, **INPUT1**, **INPUT2**)
+* The new material is stored under the *MCGM* folder
+
+^^^^^^^^^^^^^^^^
+Additional notes
+^^^^^^^^^^^^^^^^
+
+* The **IsTessellationEnabled** static switch can be used to know if tessellation is enabled or not in your materials
+* If you want to add some global property, for instance wetness, you can do it in the templates
