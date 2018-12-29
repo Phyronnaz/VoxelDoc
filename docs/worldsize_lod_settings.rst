@@ -12,7 +12,7 @@ The following properties can be used in the voxel world details *World Size* cat
 * **World Size**: the size of the world, given by the octree depth: *CHUNK_SIZE * 2^octree_depth*
 
 However, these settings aren't really precise.
-For a more precise control the **Override Bounds** and **World Bounds** properties can be used.
+For a more precise control the **Custom World Bounds** property can be used.
 
 .. warning::
 

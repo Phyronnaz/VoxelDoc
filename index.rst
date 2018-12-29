@@ -10,6 +10,7 @@ There are 2 versions available: a free one, and a paid one. This documentation c
 If you're using the free version, you can still use this doc, however not everything will work.
 
 Feel free to create issues/pull requests on the documentation repo (**Edit On Github** on the top right of the page) if you find spelling errors, outdated docs, poorly written parts, or if you have a question/suggestion. 
+You can also provide feedback on the `Discord`_.
 
 Links:
 
@@ -29,29 +30,12 @@ Links:
 .. _`Discord`: https://discord.gg/58ZqEbg
 
 .. toctree::
-   :caption: Table of Contents
-   :titlesonly:
+    :caption: Table of Contents
+    :titlesonly:
 
-   generalconcept
-   installation
-   quickstart
-   demos
-   tips
-   voxelmaterial
-   voxeltype
-   voxeltools
-   voxelworldgenerator
-   voxelgraph
-   importers
-   voxelasset
-   collisions
-   voxelgrassandvoxelactors.rst
-   texturearrays.rst
-   multiplayer.rst
-   voxelphysics
-   loadsave
-   noisenodes
-   voxelworldapi
-   miscissues
-   acknowledgements
-   VoxelDocExamples/examples
+    docs/materials/materials
+    docs/materials/material_collections
+    docs/voxel_graphs/voxel_graphs
+    docs/collisions
+    docs/worldsize_lod_settings
+    acknowledgements
