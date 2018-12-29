@@ -1,0 +1,7 @@
+# .readthedocs.yml
+
+formats:
+  - pdf
+
+requirements_file:
+  - requirements.txt
