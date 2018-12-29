@@ -1,7 +1,7 @@
-.. warning:: 
-    This is a WIP rewrite of the docs. To get access to the old ones: `OldDocs`_
+.. warning::
+    This is a WIP rewrite of the docs. To get access to the old ones: `old docs`_
 
-.. _`OldDocs`: https://voxel-plugin.readthedocs.io/en/1.0/
+.. _`old docs`: https://voxel-plugin.readthedocs.io/en/1.0/
 
 Voxel Plugin
 ============
