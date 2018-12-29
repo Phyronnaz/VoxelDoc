@@ -56,6 +56,3 @@ The following properties can be used in the voxel world details *LOD Settings* c
 
     Be careful when changing the LOD settings, as you can easily freeze UE & use all the available RAM
     with too high settings (eg LOD Limit of 0 on a big world).
-
-.. tip:: text
-    attention, caution, danger, error, hint, important, note, tip, warning
