@@ -3,5 +3,4 @@
 formats:
   - pdf
 
-requirements_file:
-  - requirements.txt
+requirements_file: "requirements.txt"
