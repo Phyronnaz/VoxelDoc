@@ -23,7 +23,7 @@ project = 'Voxel Plugin'
 copyright = '2018, Phyronnaz'
 author = 'Phyronnaz'
 
-site_url = 'http://voxel-plugin.readthedocs.io/'
+site_url = 'https://voxel-plugin.readthedocs.io/en/latest/'
 
 # The short X.Y version
 version = ''
